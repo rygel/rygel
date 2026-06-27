@@ -97,7 +97,10 @@ Badge row:
 Pitch paragraph (~25 words):
 > Windows dashboard and tray utility for monitoring AI API usage, costs, and quotas across multiple providers — OpenAI, Anthropic, Gemini, DeepSeek, and more.
 
-Install hint (one-liner, copy-pastable):
+Primary install source — link to the GitHub repo (releases page holds the Windows installer and portable zip):
+[`→ rygel/AIUsageTracker on GitHub`](https://github.com/rygel/AIUsageTracker)
+
+Secondary install hint — Windows Package Manager (one-liner, copy-pastable):
 `winget install AlexanderBrandt.AIConsumptionTracker`
 
 ## Section 4 — `agentic_coding_apps`
@@ -184,7 +187,7 @@ A short footer line links to the full repos tab: `[more repositories](https://gi
 These are specifics I can finalize once the structure is approved; flag any objections now:
 
 1. **Header view-count badge:** resolved — `komarev.com`.
-2. **AIUsageTracker install hint:** pending user clarification (which install source/link to use).
+2. **AIUsageTracker install hint:** resolved — primary link is the GitHub repo; winget install is secondary.
 3. **`toolchain` row count:** resolved — see Section 7. Final list is 15 badges across 3 rows (languages, stack, agents).
 4. **Star-ranking table footer:** resolved — `[more repositories →](https://github.com/rygel?tab=repositories)`.
 
