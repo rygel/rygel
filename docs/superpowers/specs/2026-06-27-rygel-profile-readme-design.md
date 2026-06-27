@@ -65,11 +65,12 @@ Badge row (shields.io, all dynamic):
 | GitHub followers | `for-the-badge`, color `0f172a` |
 | Profile views (komarev) | `for-the-badge`, color `0f172a` |
 | Public repos | `for-the-badge`, color `0f172a` |
-| Total stars | `for-the-badge`, color `0f172a` |
 | Main stack | `Kotlin · C# · Python`, `for-the-badge`, color `2f80ed` |
 | Focus | `Agentic Coding`, `for-the-badge`, color `0f172a` |
 
-All badges link to `https://github.com/rygel?tab=...` (followers / repositories).
+Notes:
+- **Total stars badge intentionally omitted.** No simple shields.io endpoint exists for the cumulative star count across a user's repositories; the AIUsageTracker and needlecast stars badges appear in their respective sections instead.
+- All badges link to `https://github.com/rygel?tab=...` (followers / repositories).
 
 ## Section 2 — `mission`
 
@@ -176,7 +177,7 @@ Columns: Rank | Project | Stars | Forks | Focus
 | 6 | `update4j` | 0 | 0 | Auto-update framework (demoted, retained for completeness) |
 | 7 | `fragments4k` | 0 | 0 | Markdown content library for Kotlin/JVM |
 
-Stars and forks rendered as dynamic shields.io badges (`style=flat-square&label=stars&logo=github`). Rank numbers use emoji prefix (🚀 for rank 1, then plain digits 2–7) — matches Wesley's pattern.
+Stars and forks rendered as dynamic shields.io badges (`style=flat-square&label=stars&logo=github`). Rank numbers use plain digits 1–7 — the emoji prefix (🚀 for rank 1) was intentionally omitted for visual cleanliness over Wesley's decorative pattern.
 
 A short footer line links to the full repos tab: `[more repositories](https://github.com/rygel?tab=repositories)`.
 
