@@ -146,18 +146,14 @@ Six projects, badge-only grid (Wesley's pattern for secondary sections).
 
 Shields.io badges in `for-the-badge` style, dark grey (`0f172a`), no logos (cleaner).
 
-Languages actually used across the featured repos:
-- Kotlin, C#, Python, Java, TypeScript, JavaScript, Rust
+**Languages:**
+- Kotlin · C# · Java
 
-Frameworks / runtime tooling:
-- Spring Boot, Quarkus, Micronaut, Javalin, HTTP4k, JTE
-- JDBI, Flyway, Hoplite
-- Maven, Gradle
-- Swing, FlatLaf, JavaFX
-- Docker, GitHub Actions, Renovate
+**Stack:**
+- HTTP4k · JTE · Javalin · htmx · Maven · Flyway · JDBI · Swing · Docker
 
-Agent / LLM tooling the user actively uses:
-- Claude Code, Codex, OpenCode, Cursor, Windsurf
+**Agents:**
+- Claude Code · Codex · OpenCode
 
 Each badge links to a relevant docs page or the upstream project.
 
@@ -191,7 +187,7 @@ These are specifics I can finalize once the structure is approved; flag any obje
 
 2. **AIUsageTracker install hint:** `winget install AlexanderBrandt.AIConsumptionTracker` reflects the existing winget manifest id. If you'd rather drop it (some profiles skip install hints to keep the block text-only), say so.
 
-3. **`toolchain` row count:** roughly 25 badges. If too noisy, we cut to the 5 most prominent per category.
+3. **`toolchain` row count:** resolved — see Section 7. Final list is 15 badges across 3 rows (languages, stack, agents).
 
 4. **Star-ranking table footer:** single-line `[more repositories →](https://github.com/rygel?tab=repositories)`. Optional but useful for overflow.
 
