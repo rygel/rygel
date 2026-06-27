@@ -183,13 +183,10 @@ A short footer line links to the full repos tab: `[more repositories](https://gi
 
 These are specifics I can finalize once the structure is approved; flag any objections now:
 
-1. **Header view-count badge:** uses `komarev.com` for profile views. Alternative: `visitor-badge.glitch.me`. Pick one if you have a preference — default is komarev.
-
-2. **AIUsageTracker install hint:** `winget install AlexanderBrandt.AIConsumptionTracker` reflects the existing winget manifest id. If you'd rather drop it (some profiles skip install hints to keep the block text-only), say so.
-
+1. **Header view-count badge:** resolved — `komarev.com`.
+2. **AIUsageTracker install hint:** pending user clarification (which install source/link to use).
 3. **`toolchain` row count:** resolved — see Section 7. Final list is 15 badges across 3 rows (languages, stack, agents).
-
-4. **Star-ranking table footer:** single-line `[more repositories →](https://github.com/rygel?tab=repositories)`. Optional but useful for overflow.
+4. **Star-ranking table footer:** resolved — `[more repositories →](https://github.com/rygel?tab=repositories)`.
 
 ## Implementation notes
 
