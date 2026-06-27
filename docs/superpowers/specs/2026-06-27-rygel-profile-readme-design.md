@@ -135,16 +135,17 @@ Each entry: bold link to the user's fork on `rygel/` + 1-sentence pitch + a smal
 
 ## Section 6 — `platforms_and_frameworks`
 
-Six projects, badge-only grid (Wesley's pattern for secondary sections).
+Five projects, badge-only grid (Wesley's pattern for secondary sections).
 
 | Project | Org | Language | One-line pitch |
 |---|---|---|---|
 | `outerstellar-platform` | `rygel/` | Kotlin | Kotlin application platform for extension-driven web and desktop products. |
-| `outerstellar-framework` | `rygel/` | Kotlin | Companion framework for the outerstellar platform. |
 | `fragments4k` | `rygel/` | Kotlin | Framework-agnostic Markdown content library with adapters for HTTP4k, Javalin, Spring Boot, Quarkus, Micronaut. |
 | `sparkle4j` | `rygel/` | Java | JavaFX auto-update framework for desktop applications. |
 | `maven-cleaner` | `outerstellar-hq/` | Kotlin | Tool to clean local Maven repository and Gradle caches safely — upstream-verified, local-only builds protected. |
 | `skills` | `outerstellar-hq/` | Python | Reusable agent skills for code analysis, auditing, and quality automation. |
+
+Note: `outerstellar-framework` is discontinued. Removed from this section but retained in the star ranking table for completeness (same treatment as `update4j`).
 
 ## Section 7 — `toolchain`
 
@@ -173,7 +174,7 @@ Columns: Rank | Project | Stars | Forks | Focus
 | 2 | `needlecast` | 5 | 1 | Desktop shell for vibe-coding CLIs |
 | 3 | `sparkle4j` | 0 | 0 | JavaFX auto-update framework |
 | 4 | `outerstellar-platform` | 0 | 0 | Kotlin extension-driven application platform |
-| 5 | `outerstellar-framework` | 0 | 0 | Companion framework |
+| 5 | `outerstellar-framework` | 0 | 0 | Companion framework (discontinued) |
 | 6 | `update4j` | 0 | 0 | Auto-update framework (demoted, retained for completeness) |
 | 7 | `fragments4k` | 0 | 0 | Markdown content library for Kotlin/JVM |
 

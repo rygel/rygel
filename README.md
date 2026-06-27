@@ -75,7 +75,6 @@ Three upstream projects I contribute to:
 ## `platforms_and_frameworks`
 
 - [**`outerstellar-platform`**](https://github.com/rygel/outerstellar-platform) — Kotlin application platform for extension-driven web and desktop products.
-- [**`outerstellar-framework`**](https://github.com/rygel/outerstellar-framework) — Companion framework for the outerstellar platform.
 - [**`fragments4k`**](https://github.com/rygel/fragments4k) — Framework-agnostic Markdown content library with adapters for HTTP4k, Javalin, Spring Boot, Quarkus, Micronaut.
 - [**`sparkle4j`**](https://github.com/rygel/sparkle4j) — JavaFX auto-update framework for desktop applications.
 - [**`maven-cleaner`**](https://github.com/outerstellar-hq/maven-cleaner) — Tool to clean local Maven repository and Gradle caches safely — upstream-verified, local-only builds protected.
@@ -121,7 +120,7 @@ Three upstream projects I contribute to:
 | 2 | [`needlecast`](https://github.com/rygel/needlecast) | ![Stars](https://img.shields.io/github/stars/rygel/needlecast?style=flat-square&label=stars&logo=github) | ![Forks](https://img.shields.io/github/forks/rygel/needlecast?style=flat-square&label=forks&logo=github) | Desktop shell for vibe-coding CLIs |
 | 3 | [`sparkle4j`](https://github.com/rygel/sparkle4j) | ![Stars](https://img.shields.io/github/stars/rygel/sparkle4j?style=flat-square&label=stars&logo=github) | ![Forks](https://img.shields.io/github/forks/rygel/sparkle4j?style=flat-square&label=forks&logo=github) | JavaFX auto-update framework |
 | 4 | [`outerstellar-platform`](https://github.com/rygel/outerstellar-platform) | ![Stars](https://img.shields.io/github/stars/rygel/outerstellar-platform?style=flat-square&label=stars&logo=github) | ![Forks](https://img.shields.io/github/forks/rygel/outerstellar-platform?style=flat-square&label=forks&logo=github) | Kotlin extension-driven application platform |
-| 5 | [`outerstellar-framework`](https://github.com/rygel/outerstellar-framework) | ![Stars](https://img.shields.io/github/stars/rygel/outerstellar-framework?style=flat-square&label=stars&logo=github) | ![Forks](https://img.shields.io/github/forks/rygel/outerstellar-framework?style=flat-square&label=forks&logo=github) | Companion framework |
+| 5 | [`outerstellar-framework`](https://github.com/rygel/outerstellar-framework) | ![Stars](https://img.shields.io/github/stars/rygel/outerstellar-framework?style=flat-square&label=stars&logo=github) | ![Forks](https://img.shields.io/github/forks/rygel/outerstellar-framework?style=flat-square&label=forks&logo=github) | Companion framework (discontinued) |
 | 6 | [`update4j`](https://github.com/rygel/update4j) | ![Stars](https://img.shields.io/github/stars/rygel/update4j?style=flat-square&label=stars&logo=github) | ![Forks](https://img.shields.io/github/forks/rygel/update4j?style=flat-square&label=forks&logo=github) | Auto-update framework (demoted, retained for completeness) |
 | 7 | [`fragments4k`](https://github.com/rygel/fragments4k) | ![Stars](https://img.shields.io/github/stars/rygel/fragments4k?style=flat-square&label=stars&logo=github) | ![Forks](https://img.shields.io/github/forks/rygel/fragments4k?style=flat-square&label=forks&logo=github) | Markdown content library for Kotlin/JVM |
 
