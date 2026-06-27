@@ -84,11 +84,15 @@ Three upstream projects I contribute to:
 
 ## `toolchain`
 
+**Programming Languages**
+
 <p align="left">
   <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
   <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
   <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
 </p>
+
+**Libraries**
 
 <p align="left">
   <a href="https://www.http4k.org"><img src="https://img.shields.io/badge/HTTP4k-0f172a?style=for-the-badge" alt="HTTP4k"></a>
@@ -101,6 +105,8 @@ Three upstream projects I contribute to:
   <a href="https://docs.oracle.com/javase/tutorial/uiswing"><img src="https://img.shields.io/badge/Swing-0f172a?style=for-the-badge" alt="Swing"></a>
   <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 </p>
+
+**Agents**
 
 <p align="left">
   <a href="https://claude.com/product/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-0f172a?style=for-the-badge" alt="Claude Code"></a>

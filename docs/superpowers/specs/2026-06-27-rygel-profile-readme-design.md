@@ -149,12 +149,12 @@ Note: `outerstellar-framework` is discontinued. Removed from this section but re
 
 ## Section 7 — `toolchain`
 
-Shields.io badges in `for-the-badge` style, dark grey (`0f172a`), no logos (cleaner).
+Shields.io badges in `for-the-badge` style, dark grey (`0f172a`), no logos (cleaner). Each row is preceded by a bold label so the categories are self-documenting.
 
-**Languages:**
+**Programming Languages:**
 - Kotlin · C# · Java
 
-**Stack:**
+**Libraries:**
 - HTTP4k · JTE · Javalin · htmx · Maven · Flyway · JDBI · Swing · Docker
 
 **Agents:**
