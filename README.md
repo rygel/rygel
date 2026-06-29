@@ -66,9 +66,9 @@ Desktop shell for vibe-coding CLIs. Sits between a CLI and a full IDE — projec
 
 Three upstream projects I contribute to:
 
-- [**`rygel/ponytail`**](https://github.com/rygel/ponytail) — contributed to [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail). "Lazy senior dev" skill for AI agents — 80–94% less code, 47–77% cheaper, 3–6× faster. Injected as a Codex / Claude / OpenCode plugin.
-- [**`rygel/Project-Foundations`**](https://github.com/rygel/Project-Foundations) — contributed to [`erophames/Project-Foundations`](https://github.com/erophames/Project-Foundations). Codex/Claude plugin with language-specific project setup defaults (Python, Kotlin, C#, Rust, Go, TypeScript, etc.).
-- [**`rygel/chalie`**](https://github.com/rygel/chalie) — contributed to [`chalie-ai/chalie`](https://github.com/chalie-ai/chalie). Self-hosted AI companion with persistent memory, autonomous goals, local-first data.
+- [**`rygel/ponytail`**](https://github.com/rygel/ponytail) — contributed to [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail). Helped evolve it from a new-code-only skill to also work on existing codebases — audits, reviews, and incremental simplification.
+- [**`rygel/Project-Foundations`**](https://github.com/rygel/Project-Foundations) — contributed to [`erophames/Project-Foundations`](https://github.com/erophames/Project-Foundations). Donated my existing project scaffolding as the initial codebase, establishing language-specific setup defaults (Python, Kotlin, C#, Rust, Go, TypeScript, etc.).
+- [**`rygel/chalie`**](https://github.com/rygel/chalie) — contributed to [`chalie-ai/chalie`](https://github.com/chalie-ai/chalie). Working on UI and usability improvements for this self-hosted AI companion.
 
 ---
 
