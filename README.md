@@ -75,7 +75,7 @@ Three upstream projects I contribute to:
 
 ## `community`
 
-- Moderator at [**Vibecord**](https://discord.gg/knjxvZ4kyr) — a Discord server for vibe-coders and AI-assisted development.
+- Community Builder at [**Vibecord**](https://discord.gg/knjxvZ4kyr) — a Discord server for vibe-coders and AI-assisted development.
 
 ---
 
