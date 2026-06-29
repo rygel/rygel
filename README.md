@@ -72,6 +72,12 @@ Three upstream projects I contribute to:
 
 ---
 
+## `community`
+
+- Moderator at [**Vibecord**](https://discord.gg/knjxvZ4kyr) — a Discord server for vibe-coders and AI-assisted development.
+
+---
+
 ## `platforms_and_frameworks`
 
 - [**`outerstellar-platform`**](https://github.com/rygel/outerstellar-platform) — Kotlin application platform for extension-driven web and desktop products.
