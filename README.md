@@ -10,7 +10,7 @@
   <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frygel&query=%24.public_repos&style=for-the-badge&color=0f172a&label=public%20repos" alt="Public repos"></a>
   <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/stack-Kotlin%20%C2%B7%20C%23%20%C2%B7%20Python-2f80ed?style=for-the-badge" alt="Main Stack"></a>
   <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/focus-Agentic%20Coding-0f172a?style=for-the-badge" alt="Focus"></a>
-  <a href="https://discord.gg/knjxvZ4kyr"><img src="https://img.shields.io/discord/1492117768894418945?style=for-the-badge&color=0f172a&label=Vibecord&logo=discord&logoColor=white" alt="Vibecord"></a>
+  <a href="https://discord.gg/knjxvZ4kyr"><img src="https://img.shields.io/badge/Vibecord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Vibecord"></a>
 </p>
 
 ---
