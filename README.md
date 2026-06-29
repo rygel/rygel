@@ -66,8 +66,8 @@ Desktop shell for vibe-coding CLIs. Sits between a CLI and a full IDE — projec
 
 Three upstream projects I contribute to:
 
-- [**`rygel/ponytail`**](https://github.com/rygel/ponytail) — contributed to [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail). Helped evolve it from a new-code-only skill to also work on existing codebases — audits, reviews, and incremental simplification.
-- [**`rygel/Project-Foundations`**](https://github.com/rygel/Project-Foundations) — contributed to [`erophames/Project-Foundations`](https://github.com/erophames/Project-Foundations). Donated my existing project scaffolding as the initial codebase, establishing language-specific setup defaults (Python, Kotlin, C#, Rust, Go, TypeScript, etc.).
+- [**`rygel/ponytail`**](https://github.com/rygel/ponytail) — contributed to [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail). Helped evolve it from a new-code-only skill to also work on existing codebases.
+- [**`rygel/Project-Foundations`**](https://github.com/rygel/Project-Foundations) — contributed to [`erophames/Project-Foundations`](https://github.com/erophames/Project-Foundations). Donated my existing project scaffolding for Python, Kotlin, C#, Rust, Go, TypeScript.
 - [**`rygel/chalie`**](https://github.com/rygel/chalie) — contributed to [`chalie-ai/chalie`](https://github.com/chalie-ai/chalie). Working on UI and usability improvements for this self-hosted AI companion.
 
 ---
