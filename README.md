@@ -125,7 +125,7 @@ Three upstream projects I contribute to:
 
 ## `github_analytics`
 
-### ⭐ project star ranking — top 7 owner repos
+### ⭐ project star ranking — top repos
 
 | Rank | Project | Stars | Forks | Focus |
 |---|---|:---:|:---:|---|
