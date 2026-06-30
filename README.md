@@ -84,7 +84,7 @@ Three upstream projects I contribute to:
 - [**`outerstellar-platform`**](https://github.com/rygel/outerstellar-platform) — Kotlin application platform for extension-driven web and desktop products.
 - [**`fragments4k`**](https://github.com/rygel/fragments4k) — Framework-agnostic Markdown content library with adapters for HTTP4k, Javalin, Spring Boot, Quarkus, Micronaut.
 - [**`sparkle4j`**](https://github.com/rygel/sparkle4j) — JavaFX auto-update framework for desktop applications.
-- [**`maven-cleaner`**](https://github.com/outerstellar-hq/maven-cleaner) — Tool to clean local Maven repository and Gradle caches safely — upstream-verified, local-only builds protected.
+- [**`maven-cleaner`**](https://github.com/outerstellar-hq/maven-cleaner) — Tool to clean local Maven repository and Gradle caches safely.
 - [**`skills`**](https://github.com/outerstellar-hq/skills) — Reusable agent skills for code analysis, auditing, and quality automation.
 
 ---
