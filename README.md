@@ -8,7 +8,7 @@
   <a href="https://github.com/rygel?tab=followers"><img src="https://img.shields.io/github/followers/rygel?style=for-the-badge&color=0f172a" alt="GitHub followers"></a>
   <a href="https://github.com/rygel"><img src="https://komarev.com/ghpvc/?username=rygel&style=for-the-badge&color=0f172a" alt="Profile views"></a>
   <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frygel&query=%24.public_repos&style=for-the-badge&color=0f172a&label=public%20repos" alt="Public repos"></a>
-  <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/stack-Java%20%C2%B7%20Kotlin%20%C2%B7%20C%23%20%C2-2f80ed?style=for-the-badge" alt="Main Stack"></a>
+  <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/stack-Java%20%C2%B7%20Kotlin%20%C2%B7%20C%23-2f80ed?style=for-the-badge" alt="Main Stack: Java, Kotlin, C#"></a>
   <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/focus-Agentic%20Coding-0f172a?style=for-the-badge" alt="Focus"></a>
   <a href="https://discord.gg/knjxvZ4kyr"><img src="https://img.shields.io/badge/Vibecord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Vibecord"></a>
 </p>
@@ -94,9 +94,9 @@ Three upstream projects I contribute to:
 **Programming Languages**
 
 <p align="left">
+  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
   <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
   <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
 </p>
 
 **Libraries**
