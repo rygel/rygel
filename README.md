@@ -19,20 +19,6 @@
 
 I build the tools I like to use.
 
-Mainly a Java developer, with a lot of C# on the side and a working knowledge
-of Kotlin when the JVM ecosystem calls for it. From enterprise backends to
-desktop applications. The last few years have been spent almost entirely on
-**agentic coding**: building AI agents, CLI tooling, and infrastructure for
-engineers working alongside LLMs.
-
-I prefer small, sharp tools over frameworks. Every repo in my profile exists
-because I needed it and nobody else had built it yet. The shared thread is
-**pragmatic delivery** — pick the boring solution, ship it, iterate only when
-the cost of not changing exceeds the cost of changing.
-
-Open to collaboration on AI tooling, dev infrastructure, and JVM-side agent
-runtimes.
-
 ---
 
 ## `flagship` · [AIUsageTracker](https://github.com/rygel/AIUsageTracker)
@@ -105,12 +91,35 @@ Three upstream projects I contribute to:
 
 ## `toolchain`
 
+**Programming Languages**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,cs,java,maven,docker,idea,git,github,vscode&theme=dark&perline=9" alt="Toolchain: Kotlin, C#, Java, Maven, Docker, IntelliJ, Git, GitHub, VS Code" />
+  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-0f172a?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
 </p>
 
-**JVM ecosystem:** HTTP4k · JTE · Javalin · htmx · Flyway · JDBI · Swing
-**Agents:** Claude Code · Codex · OpenCode
+**Libraries**
+
+<p align="left">
+  <a href="https://www.http4k.org"><img src="https://img.shields.io/badge/HTTP4k-0f172a?style=for-the-badge" alt="HTTP4k"></a>
+  <a href="https://jte.gg"><img src="https://img.shields.io/badge/JTE-0f172a?style=for-the-badge" alt="JTE"></a>
+  <a href="https://javalin.io"><img src="https://img.shields.io/badge/Javalin-0f172a?style=for-the-badge" alt="Javalin"></a>
+  <a href="https://htmx.org"><img src="https://img.shields.io/badge/htmx-0f172a?style=for-the-badge" alt="htmx"></a>
+  <a href="https://maven.apache.org"><img src="https://img.shields.io/badge/Maven-0f172a?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"></a>
+  <a href="https://flywaydb.org"><img src="https://img.shields.io/badge/Flyway-0f172a?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway"></a>
+  <a href="https://jdbi.org"><img src="https://img.shields.io/badge/JDBI-0f172a?style=for-the-badge" alt="JDBI"></a>
+  <a href="https://docs.oracle.com/javase/tutorial/uiswing"><img src="https://img.shields.io/badge/Swing-0f172a?style=for-the-badge" alt="Swing"></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+</p>
+
+**Agents**
+
+<p align="left">
+  <a href="https://claude.com/product/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-0f172a?style=for-the-badge" alt="Claude Code"></a>
+  <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/Codex-0f172a?style=for-the-badge" alt="Codex"></a>
+  <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-0f172a?style=for-the-badge" alt="OpenCode"></a>
+</p>
 
 ---
 
