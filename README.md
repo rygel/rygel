@@ -4,9 +4,7 @@
 
 <h1>rygel</h1>
 
-```
-Software Architect | Agentic Coding | Pragmatic Delivery
-```
+<p align="center"><code>Software Architect | Agentic Coding | Pragmatic Delivery</code></p>
 
 <p align="center">
   <a href="https://github.com/rygel?tab=followers"><img src="https://img.shields.io/github/followers/rygel?style=for-the-badge&color=0f172a" alt="GitHub followers"></a>
