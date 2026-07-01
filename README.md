@@ -172,8 +172,4 @@ Community Builder at [**Vibecord**](https://discord.gg/knjxvZ4kyr) — a Discord
 
 [more repositories →](https://github.com/rygel?tab=repositories)
 
----
-
-**Alexander Brandt** · [GitHub](https://github.com/rygel) · [Vibecord](https://discord.gg/knjxvZ4kyr)
-
 </div>
