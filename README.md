@@ -13,6 +13,7 @@
   <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/stack-Java%20%7C%20Kotlin%20%7C%20C%23-2f80ed?style=for-the-badge" alt="Main Stack"></a>
   <a href="https://github.com/rygel?tab=repositories"><img src="https://img.shields.io/badge/focus-Agentic%20Coding-0f172a?style=for-the-badge" alt="Focus"></a>
   <a href="https://discord.gg/knjxvZ4kyr"><img src="https://img.shields.io/badge/Vibecord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Vibecord"></a>
+  <a href="https://discord.gg/PGF42MXR5z"><img src="https://img.shields.io/badge/Vibecord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Augmentatism"></a>
 </p>
 
 I build the tools I like to use.
